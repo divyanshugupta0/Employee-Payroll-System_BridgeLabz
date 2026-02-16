@@ -1,4 +1,4 @@
-#Employee Payroll System
+# Employee Payroll System
 This is a simple Employee Payroll System built using Node.js and Express. It allows you to manage employee records, including adding, updating, and deleting employee information.
 ## Features
 - Add new employee records
